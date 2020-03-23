@@ -1,5 +1,6 @@
 
 ## 🚨 LRP-Farmcyc🚨
+These scripts are free on the fivem platform!
 
 crab and shrimp collection system
 
